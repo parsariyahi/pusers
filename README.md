@@ -58,5 +58,5 @@ python src/main.py
 | WARNING: for testing purposses, the script is just reading the `utmp` file from this path "`./utmp`".|
 | --- |
 
-| WARNING: This script only tested on `Ubuntu` |
+| WARNING: This script only tested on `ubuntu 5.15.0-101-generic x86_64 GNU/Linux`|
 | --- |
