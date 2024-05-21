@@ -7,7 +7,10 @@ This code does simillar to `users` command will do. <br>
 This project is just a fun project for learning purposes, it's just reading the bytes from `utmp` files,
 Extract data that logged into that file, print it.
 
-## `man utmp` command
+## utmp manual page
+```
+man utmp
+```
     """
     CONFORMING TO
     POSIX.1  does  not  specify a utmp structure, but rather one named utmpx,
