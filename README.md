@@ -113,9 +113,9 @@ clone the script from **github**
 ```
 git clone https://github.com/parsariyahi/utmp_reader.git
 ```
-run the project directly with python
+run below command for `help`
 ```
-python src/main.py
+python src/pusers.py --help
 ```
 
 | NOTE: This script is reading `utmpx` format that apears in  `utmp.h`.|
